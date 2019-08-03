@@ -28,9 +28,11 @@ Creating a new website for Hopper, one of the top 4 most downloaded travel apps 
 </a>
 
 <br />
-
+<br />
 Launching the new Narative.co means much to our business today. It’s the clearest expression yet of the impact we create for the partners we work with, and the values that matter to us both as creative professionals and as a team building this business together.
 
+<br />
+<br />
 <div>
 <a href="https://narative.co/design/open/narative" target="_blank">
 <img src="https://raw.githubusercontent.com/narative/gatsby-theme-novela-example/master/assets/gatsby-theme-novela-cta-figma.jpg" alt="gatsby-novela-theme figma link" width="255px" />
@@ -47,9 +49,11 @@ Launching the new Narative.co means much to our business today. It’s the clear
 </a>
 
 <br />
-
+<br />
 With minimal styling and maximum features — including multiple homepage layouts, built-in social sharing and dark mode — Novela makes it easy to start publishing beautiful articles and stories with Gatsby.
 
+<br />
+<br />
 <div>
 <a href="https://narative.co/design/open/novela" target="_blank">
 <img src="https://raw.githubusercontent.com/narative/gatsby-theme-novela-example/master/assets/gatsby-theme-novela-cta-figma.jpg" alt="gatsby-novela-theme figma link" width="255px" />
@@ -66,10 +70,12 @@ With minimal styling and maximum features — including multiple homepage layout
 </a>
 
 <br />
-
+<br />
 The trade has changed. Now it’s time for the tools.
 Sick of tracking your trades across Evernote, Excel files and countless screenshots? Fey gives you the complete picture of your portfolio, with fast data entry, always-on risk analysis and more.
 
+<br />
+<br />
 <div>
 <a href="https://narative.co/design/open/fey" target="_blank">
 <img src="https://raw.githubusercontent.com/narative/gatsby-theme-novela-example/master/assets/gatsby-theme-novela-cta-figma.jpg" alt="gatsby-novela-theme figma link" width="255px" />
