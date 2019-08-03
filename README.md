@@ -6,7 +6,14 @@
 <img src="https://raw.githubusercontent.com/narative/design/master/assets/hopper-OSS.jpg" alt="Figma link for Fey project" />
 </a>
 
-[View Design](https://narative.co/design/open/hopper)
+<div>
+<a href="https://narative.co/design/open/hopper" target="_blank">
+<img src="https://raw.githubusercontent.com/narative/gatsby-theme-novela-example/master/assets/gatsby-theme-novela-cta-figma.jpg" alt="gatsby-novela-theme figma link" width="255px" />
+</a>
+</div>
+
+<br />
+<br />
 
 ### Narative
 
@@ -14,7 +21,14 @@
 <img src="https://raw.githubusercontent.com/narative/design/master/assets/narative-OSS.jpg" alt="Figma link for Fey project" />
 </a>
 
-[View Design](https://narative.co/design/open/narative)
+<div>
+<a href="https://narative.co/design/open/narative" target="_blank">
+<img src="https://raw.githubusercontent.com/narative/gatsby-theme-novela-example/master/assets/gatsby-theme-novela-cta-figma.jpg" alt="gatsby-novela-theme figma link" width="255px" />
+</a>
+</div>
+
+<br />
+<br />
 
 ### Novela
 
@@ -22,7 +36,14 @@
 <img src="https://raw.githubusercontent.com/narative/design/master/assets/novela-OSS.jpg" alt="Figma link for Fey project" />
 </a>
 
-[View Design](https://narative.co/design/open/novela)
+<div>
+<a href="https://narative.co/design/open/novela" target="_blank">
+<img src="https://raw.githubusercontent.com/narative/gatsby-theme-novela-example/master/assets/gatsby-theme-novela-cta-figma.jpg" alt="gatsby-novela-theme figma link" width="255px" />
+</a>
+</div>
+
+<br />
+<br />
 
 ### Fey
 
@@ -30,4 +51,8 @@
 <img src="https://raw.githubusercontent.com/narative/design/master/assets/fey-OSS.jpg" alt="Figma link for Fey project" />
 </a>
 
-[View Design](https://narative.co/design/open/fey)
+<div>
+<a href="https://narative.co/design/open/fey" target="_blank">
+<img src="https://raw.githubusercontent.com/narative/gatsby-theme-novela-example/master/assets/gatsby-theme-novela-cta-figma.jpg" alt="gatsby-novela-theme figma link" width="255px" />
+</a>
+</div>
