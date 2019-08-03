@@ -7,7 +7,6 @@
 </a>
 
 <br />
-
 Creating a new website for Hopper, one of the top 4 most downloaded travel apps in the U.S, along with Uber, Lyft and Airbnb is no easy task. It’s critical to communicate to the world the brilliance behind Hopper and the people driving this rapidly-growing app.
 
 <div>
