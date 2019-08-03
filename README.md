@@ -10,7 +10,8 @@
 <br />
 Creating a new website for Hopper, one of the top 4 most downloaded travel apps in the U.S, along with Uber, Lyft and Airbnb is no easy task. It’s critical to communicate to the world the brilliance behind Hopper and the people driving this rapidly-growing app.
 
-
+<br />
+<br />
 <div>
 <a href="https://narative.co/design/open/hopper" target="_blank">
 <img src="https://raw.githubusercontent.com/narative/gatsby-theme-novela-example/master/assets/gatsby-theme-novela-cta-figma.jpg" alt="gatsby-novela-theme figma link" width="255px" />
