@@ -62,22 +62,3 @@ With minimal styling and maximum features — including multiple homepage layout
 
 <br />
 <br />
-
-### Fey
-
-<a href="https://narative.co/design/open/fey" target="_blank">
-<img src="https://raw.githubusercontent.com/narative/design/master/assets/fey-OSS.jpg" alt="Figma link for Fey project" />
-</a>
-
-<br />
-<br />
-The trade has changed. Now it’s time for the tools.
-Sick of tracking your trades across Evernote, Excel files and countless screenshots? Fey gives you the complete picture of your portfolio, with fast data entry, always-on risk analysis and more.
-
-<br />
-<br />
-<div>
-<a href="https://narative.co/design/open/fey" target="_blank">
-<img src="https://raw.githubusercontent.com/narative/gatsby-theme-novela-example/master/assets/gatsby-theme-novela-cta-figma.jpg" alt="gatsby-novela-theme figma link" width="255px" />
-</a>
-</div>
